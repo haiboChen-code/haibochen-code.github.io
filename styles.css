@@ -16,6 +16,5 @@ p {
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 body{
-backgroud-img:url"https://octodex.github.com/images/04.jpg"
-
+background-image:url("https://octodex.github.com/images/04.jpg")
 }
